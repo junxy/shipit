@@ -6,6 +6,11 @@ Minimalistic SSH deployment.
 
 [![Code Sponsor](https://app.codesponsor.io/embed/Ehc9nFenMsMG6p9KFod8F3df/sapegin/shipit.svg)](https://app.codesponsor.io/link/Ehc9nFenMsMG6p9KFod8F3df/sapegin/shipit)
 
+## TODO
+
+- [ ] Support password login with ssh
+- [ ] Support multi-host
+
 ## Installation
 
 Copy this one-liner and run it in your shell:

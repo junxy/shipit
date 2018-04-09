@@ -8,8 +8,8 @@ Minimalistic SSH deployment.
 
 ## TODO
 
+- [ ] Support multi-host deploy
 - [ ] Support password login with ssh
-- [ ] Support multi-host
 
 ## Installation
 
